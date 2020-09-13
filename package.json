@@ -1,0 +1,27 @@
+{
+  "name": "Req & Res",
+  "version": "1.0.0",
+  "description": "Entry for js13kGames 2020.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erwin Larios",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-check-filesize": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rimraf": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser": "^1.4.0",
+    "gulp-zip": "^5.0.2"
+  }
+}
